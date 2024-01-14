@@ -1,0 +1,42 @@
+html{
+   scroll-padding-top: 56px;
+}
+body{
+   background-color: #001329;
+}
+.home{
+   height: 100vh;
+   background-image: url(img/thumb-1920-862737.png);
+}
+.aboutme{
+   height: 100vh;
+   background-image: url(img/thumb-1920-862737.png);
+}
+.work{
+   height: 100vh;
+}
+.aboutme{
+   height: 100vh;
+   background-image: url(img/thumb-1920-862737.png);
+}
+.card-title{
+   text-align: center;
+   font-size: 50px;
+   font-family: 'Oswald', sans-serif;
+   color: #FFD60A;
+}
+.card-text{
+   font-size: 25px;
+   font-family: 'EB Garamond', serif;
+   color: white;
+}
+.card{
+   background-color: #001D3D;
+   padding-bottom: ;
+}
+h1{
+   color: #FFC300;
+   text-align: center;
+   font-family: 'Oswald', sans-serif;
+   font-size: 110px;
+}
