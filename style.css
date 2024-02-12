@@ -5,7 +5,7 @@ body{
    background-color: #001329;
 }
 .navbar{
-   background-color: ;
+         
 }
 .home{
    height: 100vh;
@@ -47,7 +47,7 @@ body{
    display: block;
    margin-left: auto;
    margin-right: auto;
-   width: %;
+         
 }
 .carousel-caption{
    background-color: #001D3D;
@@ -55,6 +55,21 @@ body{
 .knowledge{
    height: 100vh;
 }
+.row3{
+   border:#FFD60A 3px solid;
+   height: 25vh;
+   margin-top: 10px;
+}
+.col3{
+   border: #FFC300 1px solid;
+   height: 24.5vh ;
+   background-color: #001d3d;
+}
+.kimg{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}     
 
 .work{
    height: 100vh;
@@ -69,14 +84,13 @@ body{
    font-family: 'Oswald', sans-serif;
    color: #FFD60A;
 }
-.card-text{
+.card-text, p{
    font-size: 1.3020833333333333vw;
    font-family: 'EB Garamond', serif;
    color: white;
 }
 .card{
    background-color: #001D3D;
-   padding-bottom: ;
 }
 h1{
    color: #FFC300;
